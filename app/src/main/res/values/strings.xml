@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CopliotX</string>
+    <string name="service_description">帮助用户跳过应用的开屏广告</string>
+</resources>
